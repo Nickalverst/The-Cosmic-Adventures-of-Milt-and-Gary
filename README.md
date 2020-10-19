@@ -1,18 +1,19 @@
 # The Cosmic Adventures of Milt and Gary
-## Sobre o jogo
-The Cosmic Adventures of Milt and Gary é um jogo indie 2D cooperativo de aventura em estilo top-down que se passa em uma Inglaterra entreguerras vítima de uma invasão alienígena devastadora em meio a qual um garoto e seu avô - veterano da Grande Guerra - buscam compreender a situação.
-
-## Sobre o projeto
-Esse é um jogo desenvolvido paralelamente ao curso de Tecnologia em Jogos Digitais da Universidade Presbiteriana Mackenzie por dois colegas de faculdade: Nicolas Barbieri Sousa e Lucas Silvério da Silva. O objetivo do projeto é desenvolver habilidades nos campos de programação, ilustração digital e level design, assim como obter experiência com e conhecimento sobre o funcionamento do motor de jogos Unity e sua integração com aplicativos - como Photoshop, Visual Studio e Aseprite - e pacotes de terceiros - como TextMesh Pro e A* Pathfinding Project. Dessa forma, o objetivo é construir um jogo simples que conte com mecânicas bem estruturadas e largamente utilizadas pela indústria.
-## Sobre os desenvolvedores
-#### Lucas Silvério da Silva - Artista
-Me chamo Lucas Silvério da Silva, tenho 22. Sempre fui muito apaixonado por criação, desde jogos digitais a imagens no photoshop. Foi em um curso de Design de Games onde conheci o verdadeiro poder do design e a importância do mesmo, e desde então trabalho na área.
-###### Encontre-me aqui:
+Translation: [Português-Brasileiro](./README-pt.md)
+## About the game
+The Cosmic Adventures of Milt and Gary is an indie 2D cooperative adventure top-down video game set in an interwar England victim of a devastating alien invasion in the midst of which a kid and his grandfather - a Great War veteran - attempt to comprehend what is happening.
+## About the project
+This is a game developed in parallel with the Digital Games Technology course at Universidade Presbiteriana Mackenzie by two university colleagues: Nicolas Barbieri Sousa and Lucas Silvério da Silva. The goal of the project is to develop skills in the areas of computer programming, digital illustration and level design, as well as gain experience with and knowledge about the video games engine Unity and its integration with applications - such as Photoshop, Visual Studio and Aseprite - and third-party packages - such as TextMesh Pro and A* Pathfinding Project. Ergo, the objective is to build a simple video game using well established and largely adopted game mechanics.
+## About the developers
+#### Lucas Silvério da Silva - Artist
+My name is Lucas Silvério da Silva, I'm 22. I have always been passionate about creation, from video games to images on Photoshop. It was in a Game Design course that I discovered the true power of design and its importance, and since then I work with it.
+###### Find me at:
 LinkedIn: [linkedin.com/in/lucas-silv%C3%A9rio-255526193/](https://www.linkedin.com/in/lucas-silv%C3%A9rio-255526193/ "linkedin.com/in/lucas-silv%C3%A9rio-255526193/")
 <br/>Behance: [behance.net/Lucas117](https://www.behance.net/Lucas117 "behance.net/Lucas117")
 <br/>Instagram: [@lukethe117](https://www.instagram.com/lukethe117/ "instagram.com/lukethe117/")
-#### Nicolas Barbieri Sousa - Programador
-Minha paixão por jogos digitais e computação é o motivo pelo qual curso Tecnologia em Jogos Digitais na Universidade Presbiteriana Mackenzie, em que tenho estudado especialmente desenvolvimento de software nas linguagens C# e JavaScript, além de ferramentas como o motor de jogos Unity. Para além dos estudos curriculares, tenho me aprofundado em tecnologias correlatas, como modelagem e desenho digital, HTML e CSS, e emergentes, como inteligência artificial e ray tracing. Parte do resultado desses estudos pode ser encontrado no GitHub, tanto em repositórios de projetos pessoais como de projetos práticos guiados.
-###### Encontre-me aqui:
+#### Nicolas Barbieri Sousa - Programmer
+My passion for digital games and computing is the reason why I study Digital Games Technology at Universidade Presbiteriana Mackenzie, where I have been studying especially software development in C# and JavaScript programming languages, as well as tools such as the Unity game engine. In addition to curricular studies, I have been deepening my knowledge about related technologies, such as digital modeling and design, HTML and CSS, and emerging ones, such as artificial intelligence and ray tracing. Part of the results of these studies can be found on GitHub, both in repositories of personal and guided practical projects.
+###### Find me at:
 LinkedIn: [linkedin.com/in/nicolasbsousa/](https://www.linkedin.com/in/nicolasbsousa/ "linkedin.com/in/nicolasbsousa/")
 <br/>GitHub: [github.com/Nickalverst](https://www.github.com/Nickalverst "github.com/Nickalverst")
+<br/>Lattes: [lattes.cnpq.br/9703194901588958](lattes.cnpq.br/9703194901588958 "lattes.cnpq.br/9703194901588958")
