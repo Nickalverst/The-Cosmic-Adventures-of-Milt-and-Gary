@@ -1,5 +1,5 @@
 # The Cosmic Adventures of Milt and Gary
-Translation: [Português-Brasileiro](./README-pt.md)
+Translation: :brazil: [Português-Brasileiro](./README-pt.md)
 ## About the game
 The Cosmic Adventures of Milt and Gary is an indie 2D cooperative adventure top-down video game set in an interwar England victim of a devastating alien invasion in the midst of which a kid and his grandfather - a Great War veteran - attempt to comprehend what is happening.
 ## About the project
@@ -16,4 +16,4 @@ My passion for digital games and computing is the reason why I study Digital Gam
 ###### Find me at:
 LinkedIn: [linkedin.com/in/nicolasbsousa/](https://www.linkedin.com/in/nicolasbsousa/ "linkedin.com/in/nicolasbsousa/")
 <br/>GitHub: [github.com/Nickalverst](https://www.github.com/Nickalverst "github.com/Nickalverst")
-<br/>Lattes: [lattes.cnpq.br/9703194901588958](lattes.cnpq.br/9703194901588958 "lattes.cnpq.br/9703194901588958")
+<br/>Lattes: [lattes.cnpq.br/9703194901588958](https://lattes.cnpq.br/9703194901588958 "lattes.cnpq.br/9703194901588958")
