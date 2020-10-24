@@ -16,4 +16,4 @@ My passion for digital games and computing is the reason why I study Digital Gam
 ###### Find me at:
 LinkedIn: [linkedin.com/in/nicolasbsousa/](https://www.linkedin.com/in/nicolasbsousa/ "linkedin.com/in/nicolasbsousa/")
 <br/>GitHub: [github.com/Nickalverst](https://www.github.com/Nickalverst "github.com/Nickalverst")
-<br/>Lattes: [lattes.cnpq.br/9703194901588958](https://lattes.cnpq.br/9703194901588958 "lattes.cnpq.br/9703194901588958")
+<br/>Lattes: [lattes.cnpq.br/9703194901588958](http://lattes.cnpq.br/9703194901588958 "lattes.cnpq.br/9703194901588958")
