@@ -16,4 +16,4 @@ Minha paixão por jogos digitais e computação é o motivo pelo qual curso Tecn
 ###### Encontre-me aqui:
 LinkedIn: [linkedin.com/in/nicolasbsousa/](https://www.linkedin.com/in/nicolasbsousa/ "linkedin.com/in/nicolasbsousa/")
 <br/>GitHub: [github.com/Nickalverst](https://www.github.com/Nickalverst "github.com/Nickalverst")
-<br/>Currículo Lattes: [lattes.cnpq.br/9703194901588958](lattes.cnpq.br/9703194901588958 "lattes.cnpq.br/9703194901588958")
+<br/>Currículo Lattes: [lattes.cnpq.br/9703194901588958](http://lattes.cnpq.br/9703194901588958 "lattes.cnpq.br/9703194901588958")
