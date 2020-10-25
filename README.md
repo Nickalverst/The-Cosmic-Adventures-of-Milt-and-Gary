@@ -2,6 +2,8 @@
 Translation: :brazil: [Português-Brasileiro](./README-pt.md)
 ## About the game
 The Cosmic Adventures of Milt and Gary is an indie 2D cooperative adventure top-down video game set in an interwar England victim of a devastating alien invasion in the midst of which a kid and his grandfather - a Great War veteran - attempt to comprehend what is happening.
+<p align="center"> <img src="https://media.giphy.com/media/4KJ3Wfv5Czg0H44UsZ/giphy.gif"> <br> <i>Demonstração em vídeo no formato GIF (2s).</i> </p>
+
 ## About the project
 This is a game developed in parallel with the Digital Games Technology course at Universidade Presbiteriana Mackenzie by two university colleagues: Nicolas Barbieri Sousa and Lucas Silvério da Silva. The goal of the project is to develop skills in the areas of computer programming, digital illustration and level design, as well as gain experience with and knowledge about the video games engine Unity and its integration with applications - such as Photoshop, Visual Studio and Aseprite - and third-party packages - such as TextMesh Pro and A* Pathfinding Project. Ergo, the objective is to build a simple video game using well established and largely adopted game mechanics.
 ## About the developers
