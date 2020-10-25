@@ -2,6 +2,8 @@
 Translation: [English](./README.md)
 ## Sobre o jogo
 The Cosmic Adventures of Milt and Gary é um jogo indie 2D cooperativo de aventura em estilo top-down que se passa em uma Inglaterra entreguerras vítima de uma invasão alienígena devastadora em meio a qual um garoto e seu avô - veterano da Grande Guerra - buscam compreender a situação.
+<p align="center"> <img src="https://media.giphy.com/media/4KJ3Wfv5Czg0H44UsZ/giphy.gif"> <br> <i>Demonstração em vídeo no formato GIF (2s).</i> </p>
+
 ## Sobre o projeto
 Esse é um jogo desenvolvido paralelamente ao curso de Tecnologia em Jogos Digitais da Universidade Presbiteriana Mackenzie por dois colegas de faculdade: Nicolas Barbieri Sousa e Lucas Silvério da Silva. O objetivo do projeto é desenvolver habilidades nos campos de programação, ilustração digital e level design, assim como obter experiência com e conhecimento sobre o funcionamento do motor de jogos Unity e sua integração com aplicativos - como Photoshop, Visual Studio e Aseprite - e pacotes de terceiros - como TextMesh Pro e A* Pathfinding Project. Dessa forma, o objetivo é construir um jogo simples que conte com mecânicas bem estruturadas e largamente utilizadas pela indústria.
 ## Sobre os desenvolvedores
